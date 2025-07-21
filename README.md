@@ -10,5 +10,4 @@
 - MATLAB
 - Arduino
 - Java
-- R
 - Web Development Suite (HTML, CSS, JavaScript)
